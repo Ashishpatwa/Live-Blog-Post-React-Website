@@ -1,0 +1,12 @@
+.form{
+    min-height: calc(100vh - 6.5rem);
+    width: 100%;
+    padding: 1.8rem 0;
+}
+
+.form-header{
+    text-align: center;
+    font-family: sans-serif;
+    color: black;
+    padding-bottom: 1.5rem;
+}

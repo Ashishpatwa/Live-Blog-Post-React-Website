@@ -1,0 +1,53 @@
+.icon {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+  }
+  .icon h1 {
+    margin: 0px;
+    display: inline-block;
+    font-size: 2rem;
+    font-weight: 900;
+    color: rgba(229, 138, 84, 0.7);
+    text-shadow: 1px 1px 1px rgba(222, 220, 220, 0.6), -1px -1px 1px rgba(181, 181, 181, 0.5);
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+  }
+  .icon span {
+    padding: 0px 0px 0px 4px;
+    font-size: 2rem;
+    font-weight: 700;
+    font-family: Arial;
+    color: #40a8c4;
+    text-shadow: 1px 1px 1px rgba(0, 0, 0, 0.3);
+  }
+  
+
+  #left{
+    display: flex;
+    justify-content: flex-end;
+    gap:3rem;
+    margin-right: 8rem;
+  }
+  p{
+    font-size: 1.2rem;
+  }
+  .design{
+    display: flex;
+    gap:1rem;
+    justify-content: center;
+    align-items: center;
+
+  }
+
+  .nav-ul li{
+    display: inline-block;
+    margin : .8rem 1rem 0;
+    font-size: 1.2rem;
+    
+  }
+
+  .logoimage{
+    width: 8%;
+    height: 8%;
+  }
